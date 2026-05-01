@@ -19,6 +19,7 @@ mvn spring-boot:run
 
 
 GVKQEDwl,.;,vkt0[5e]
+jtyqwku.niedj.mot
 # or
 java -jar target/demo-0.0.1-SNAPSHOT.jar
 ```
