@@ -16,6 +16,9 @@ Run the app:
 
 ```bash
 mvn spring-boot:run
+
+
+GVKQEDwl,.;,vkt0[5e]
 # or
 java -jar target/demo-0.0.1-SNAPSHOT.jar
 ```
